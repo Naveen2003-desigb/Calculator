@@ -1,0 +1,196 @@
+body{
+    padding: 0%;
+    margin: 0;
+    display: flex;
+}
+.container{
+    height: 440px;
+    width: 360px;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    background-color: gray;
+    top: 90px;
+    left: 390px;
+}
+h1{
+    position: relative;
+    left: 640px;
+}
+input{
+    width: 310px;
+    height:40px;
+    border: 2px solid black;
+    position: relative;
+    top: 10px;
+    left: 12px;
+    border-radius: 20px;
+    font-size: 30px;
+    text-align: right;
+    padding: 8px;   
+}
+.seven{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 25px;
+    left: 20px;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+.eight{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 25px;
+    left: 40px;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+.nine{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 25px;
+    left: 60px;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+.divide{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 25px;
+    left: 80px;
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color: orange;
+    font-size: 20px;
+}
+.four{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 110px;
+    left: -237px;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+.five{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 50px;
+    left: 105px;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+.six{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 50px;
+    left: 125px;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+.multiply{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 50px;
+    left: 145px;
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color: orange;
+    font-size: 20px;
+}
+.one{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 136px;
+    left: -173px;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+.two{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 136px;
+    left: -149px;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+.three{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 69px;
+    left: 191px;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+.minus{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 76px;
+    left: 211px;
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color: orange;
+    font-size: 40px;
+}
+.zero{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 156px;
+    left: -107px;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+.dot{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 159px;
+    left: -83px;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 30px;
+}
+.plus{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 163px;
+    left: -63px;
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color: orange;
+    font-size: 40px;
+}
+.equals{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 96px;
+    left: 276px;
+    border-radius: 5px;
+    border: 2px solid black;
+    background-color: red;
+    font-size: 40px;
+}
